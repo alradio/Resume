@@ -1,0 +1,149 @@
+/* ECRANS XXL 1400px */
+
+@media (min-width: 1400px) {
+    
+    .img-car {
+        max-width: 70%;
+        filter: blur(2px) opacity(20%);
+        margin-left: auto;
+        margin-right: auto;
+    }
+    .carousel-caption {
+        top: 50%;
+        transform: translateY(-50%);
+        bottom: initial;
+    }
+    
+    .carousel-caption h5{
+        font-size: 2.6rem;
+        font-style: italic;
+    }
+    
+    .date {
+        font-size: 1.8rem;
+    }
+    
+    .desc {
+        font-size: 1.6rem;
+    }
+}
+
+/* ECRANS XL 1200px */
+
+@media (max-width: 1399px) {
+    
+    .img-car {
+        max-width: 70%;
+        filter: blur(2px) opacity(20%);
+        margin-left: auto;
+        margin-right: auto;
+    }
+    .carousel-caption {
+        top: 50%;
+        transform: translateY(-50%);
+        bottom: initial;
+    }
+    
+    .carousel-caption h5{
+        font-size: 2.2rem;
+        font-style: italic;
+    }
+    
+    .date {
+        font-size: 1.6rem;
+    }
+    
+    .desc {
+        font-size: 1.4rem;
+    }
+}
+
+/* ECRANS LG 992px */
+
+@media (max-width: 1199px) {
+    
+    .img-car {
+        max-width: 80%;
+        filter: blur(2px) opacity(20%);
+        margin-left: auto;
+        margin-right: auto;
+    }
+    .carousel-caption {
+        top: 50%;
+        transform: translateY(-50%);
+        bottom: initial;
+    }
+    
+    .carousel-caption h5{
+        font-size: 1.9rem;
+        font-style: italic;
+    }
+    
+    .date {
+        font-size: 1.5rem;
+    }
+    
+    .desc {
+        font-size: 1.3rem;
+    }
+}
+
+/* ECRANS LG 768px */
+
+@media (max-width: 991px) {
+    
+    .img-car {
+        max-width: 100%;
+        filter: blur(2px) opacity(20%);
+        margin-left: auto;
+        margin-right: auto;
+    }
+    .carousel-caption {
+        top: 50%;
+        transform: translateY(-50%);
+        bottom: initial;
+    }
+    
+    .carousel-caption h5{
+        font-size: 1.8rem;
+        font-style: italic;
+    }
+    
+    .date {
+        font-size: 1.2rem;
+    }
+
+    .desc {
+        font-size: 1.1rem;
+    }
+}
+@media (max-width: 768px) {
+/* petits écrans */
+
+    .img-car {
+        max-width: 100%;
+        filter: blur(2px) opacity(20%);
+        margin-left: auto;
+        margin-right: auto;
+    }
+    .carousel-caption {
+        top: 50%;
+        transform: translateY(-50%);
+        bottom: initial;
+    }
+    
+    .carousel-caption h5{
+        font-size: 1.4rem;
+        font-style: italic;
+        margin-bottom: 2px;
+    }
+    
+    .date {
+        font-size: 1.1rem;
+        margin-bottom: 2px;
+    }
+    
+    .desc {
+        font-size: 0.7rem;
+    }
+}
