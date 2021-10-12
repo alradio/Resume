@@ -87,6 +87,12 @@ h3 {
     border-radius: 50%;
     outline: 4px solid white;
 } 
+@media screen and (max-width: 768px) {
+    .profil-pic {
+        display: none;
+    }
+    
+}
 
 @keyframes apparition {
     from {color: var(--main-bg-color);}
