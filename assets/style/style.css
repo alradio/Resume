@@ -85,9 +85,11 @@ h3 {
     margin: 8vh 0;
     border: 10px solid rgba(255, 183, 0, 0);
     border-radius: 50%;
+    max-width: 40vh;
     outline: 4px solid white;
 } 
-@media screen and (max-width: 768px) {
+
+@media (max-width: 768px) {
     .profil-pic {
         display: none;
     }
