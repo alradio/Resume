@@ -86,6 +86,7 @@ h3 {
     border: 10px solid rgba(255, 183, 0, 0);
     border-radius: 50%;
     width: 40vh;
+    max-height: 40vh;
     outline: 4px solid white;
 } 
 
