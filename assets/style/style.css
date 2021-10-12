@@ -29,7 +29,7 @@
 }
 
 body {
-    font-family: 'Myriad Pro', 'Monaco', 'Courier New';
+    font-family: 'Myriad Pro', 'Verdana', 'Monaco', 'Courier New';
     background: linear-gradient(to bottom left, #5c9aa672 70%, #5c9aa656 30%) fixed;
 }
 
@@ -37,7 +37,7 @@ h2 {
     text-align: center;
     padding: 2% 2% 0 2%;
     font-size: 2.5rem;
-    font-family: 'Menlo', 'Monaco', 'Courier New';
+    font-family: 'Menlo', 'Verdana', 'Monaco', 'Courier New';
     color: var(--scd-bg-color);
 }
 
@@ -59,7 +59,7 @@ h3 {
 /* navbar */
 
 .navbar {
-    font-family: 'Menlo', 'Monaco', 'Courier New';
+    font-family: 'Menlo', 'Verdana', 'Monaco', 'Courier New';
 }
 
 .nav-link.active {
@@ -99,13 +99,13 @@ h3 {
     animation-duration: 5s;
     animation-delay: 2s;
     border-top: 2px solid white;
-    font-family: 'Menlo', 'Monaco', 'Courier New';
+    font-family: 'Menlo', 'Verdana', 'Monaco', 'Courier New';
     font-size: 2.5em;
   } 
 
 .bandeau h1 {
     font-size: 2em;
-    font-family: 'Menlo', 'Monaco', 'Courier New';
+    font-family: 'Menlo', 'Verdana', 'Monaco', 'Courier New';
 }
 
 .bandeau {
