@@ -14,7 +14,10 @@
     font-weight: normal;
     src: "assets/fonts/menlo/menlo-regular.woff" format('woff');
 }
-
+@font-face {
+    font-family: 'Myriad Pro';
+    src: "assets/fonts/Myriad/MyriadArabic-Regular.otf";
+}
 /* Main */
 :root{
     --main-bg-color: #5c9aa6;
